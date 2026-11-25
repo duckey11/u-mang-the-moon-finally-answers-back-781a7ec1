@@ -7,7 +7,7 @@ No trailing newline: the file is exactly the entry line.
 
 import os
 
-ENTRY = "Four billion years of howling, wishing, and 2 a.m. promises. I'm not your therapist. I'm a rock. Go to bed."
+ENTRY = "Four billion years of howling, wishing, and 2 a.m. promises. I'm a rock, not your therapist. Go to bed."
 
 
 def main():
